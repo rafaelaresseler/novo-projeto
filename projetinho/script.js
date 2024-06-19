@@ -8,31 +8,31 @@ const perguntas = [
     {
         enunciado: "Um jovem chamado GRILINHO se aventurou em uma floresta encantada onde acabou encontrando uma garota, eles avistaram dois caminhos. Qual eles devem escolher?   ",
         alternativas: [
-            {
-                texto: "Um caminho cheio de buracos e espinhos",
-                afirmacao: "No início ficaram com muito medo do que estava por vir, mas se arriscaram   . "
+            {                texto: "Um caminho cheio de buracos e espinhos",
+                afirmacao: "No caminho com buracos e espinhos, a garota escorregou em um dos buracos e acabou se machucando nos espinhos",
             },
+
             {
                 texto: " Um caminho com rosas vermelhas,amarelas e brancas",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Andando por esse caminho, a garota fica cada vez mais encantada pelas rosas e ele foi se encantando com beleza da garota."
             }
         ]
     },
     {
-        enunciado: "No caminho com buracos e espinhos, a garota escorregou em um dos buracos e acabou se machucando nos espinhos.",
+        enunciado: "A garota está muito machucada e GRILINHO avista uma casa velha, caindo os pedaços.O que eles devem fazer? .",
         alternativas: [
             {
-                texto: " No caminho com buracos e espinhos, a garota escorregou em um dos buracos e acabou se machucando nos espinhos.  ",
+                texto: "GRILINHO deve deixar a garota sozinha e ir conferir a casa antes .  ",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
-                texto: "Ao andar pelo caminho das rosas encantadoras, GRILINHO resolve dar uma rosa à sua amiga  ",
+                texto: "Ele deve pegar a garota nos braços e a levar junto   ",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
     },
     {
-        enunciado: "GRILINHO está em completo desespero ao ver sua amiga toda furada e perdendo muito sangue",
+        enunciado: "A dona da casa é uma idosa de boa aparencia, ela ajuda a garota e em troca quer conversar com eles.O que devem fazer?",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
