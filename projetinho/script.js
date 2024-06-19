@@ -13,26 +13,26 @@ const perguntas = [
                 afirmacao: "No início ficaram com muito medo do que estava por vir, mas se arriscaram   . "
             },
             {
-                texto: " Um caminho com cactos",
+                texto: " Um caminho com rosas vermelhas,amarelas e brancas",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "No caminho com buracos e espinhos, a garota escorregou em um dos buracos e acabou se machucando nos espinhos.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: " No caminho com buracos e espinhos, a garota escorregou em um dos buracos e acabou se machucando nos espinhos.  ",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Ao andar pelo caminho das rosas encantadoras, GRILINHO resolve dar uma rosa à sua amiga  ",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "GRILINHO está em completo desespero ao ver sua amiga toda furada e perdendo muito sangue",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
